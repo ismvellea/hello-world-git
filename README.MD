@@ -109,6 +109,3 @@ Esto es nuestro segundo párrafo.
 
 Esto es nuestro tercer párrafo.
 - Lista
-
-
-I'm a Readme.
