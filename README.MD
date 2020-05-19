@@ -93,7 +93,7 @@ Esto es un texto referente a una cida que pondremos justo debajo:
 Esto es otro texto que nos e relaciona con la cita anterior.
 > Esto es otra cita.
 
-# Lineas Divisorias
+# Líneas Divisorias
 Esto es un texto que será divido por guiones medios.
 
 ---
@@ -101,5 +101,14 @@ Esto es otro texto dividido por asteriscos.
 ***
 Esto es otro texto dividido por guiones bajos.
 ___
+
+# Saltos de línea
+Esto es nuestro primer párrafo.
+
+Esto es nuestro segundo párrafo.
+
+Esto es nuestro tercer párrafo.
+- Lista
+
 
 I'm a Readme.
