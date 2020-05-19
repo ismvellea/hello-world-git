@@ -86,5 +86,12 @@ export  $initHighlight;
 | Ismael | Vela     | 12345678Z |
 | Test   | Test     | 12341235R |
 
+# Citas
+Esto es un texto referente a una cida que pondremos justo debajo:
+> Esto es una cita.
+
+Esto es otro texto que nos e relaciona con la cita anterior.
+> Esto es otra cita.
+
 
 I'm a Readme.
