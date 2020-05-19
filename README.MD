@@ -34,5 +34,9 @@ Underline 2
 - <a href="https://www.google.com">Esto es un link HTML</a>
 - [Esto es un link en Markdown](http://www.google.com)
 - [Esto es un link al index](index.html)
+- [Esto es un link a 'Cabeceras'](Cabeceras)
+
+# Imágenes
+![Logo Github](https://i.pinimg.com/originals/dc/1a/1a/dc1a1a4287f57e4a80ea5ecfd912ee96.png)
 
 I'm a Readme.
